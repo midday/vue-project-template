@@ -1,0 +1,9 @@
+ls:
+  src:
+    .js: kebab-case
+    .vue: kebab-case
+    .less: kebab-case
+
+ignore: 
+    - .git 
+    - node_modules
