@@ -4,7 +4,7 @@ module.exports = {
     parser: 'babel-eslint',
   },
   env: {
-    browser: true
+    browser: true,
   },
   extends: [
     'standard',
@@ -20,6 +20,7 @@ module.exports = {
     'comma-dangle': 'off',
     'space-before-function-paren': 'off',
     'max-statements': ['error', 50],
+    'no-trailing-spaces': 'OFF',
     'no-unmodified-loop-condition': 'off',
     'vue/singleline-html-element-content-newline': 'off',
     'vue/multiline-html-element-content-newline': 'off',

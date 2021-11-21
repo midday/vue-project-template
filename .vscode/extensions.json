@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "dbaeumer.vscode-eslint",
+    "hex-ci.stylelint-plus",
+    "esbenp.prettier-vscode"
+  ]
+}
