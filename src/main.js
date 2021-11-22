@@ -3,7 +3,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import router from '@/router'
 import i18n from '@/locales'
-import App from './app.vue'
+import App from './App.vue'
 
 console.log(router)
 
