@@ -22,6 +22,7 @@ module.exports = {
     'max-statements': ['error', 50],
     'no-trailing-spaces': 'OFF',
     'no-unmodified-loop-condition': 'off',
+    'prefer-promise-reject-errors': 'off',
     'vue/singleline-html-element-content-newline': 'off',
     'vue/multiline-html-element-content-newline': 'off',
     'vue/html-self-closing': 'off',

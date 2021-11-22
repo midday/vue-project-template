@@ -2,7 +2,6 @@
   <el-table
     border
     :data="tableData"
-    style="width: 100%"
   >
     <el-table-column
       prop="name"
