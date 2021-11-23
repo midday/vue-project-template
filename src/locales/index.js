@@ -77,6 +77,4 @@ export const setI18nLanguage = lang => {
   // document.body.setAttribute('lang', lang)
 }
 
-window.i18n = i18n
-
 export default i18n
