@@ -1,8 +1,9 @@
 {
   "recommendations": [
-    "octref.vetur",
     "dbaeumer.vscode-eslint",
     "hex-ci.stylelint-plus",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "octref.vetur",
+    "lokalise.i18n-ally"
   ]
 }
